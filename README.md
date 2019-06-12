@@ -1,2 +1,2 @@
-# Node_Semana_Omnistack-7
+# Node_Semana_Omnistack
 Estudos da plataforma RocketSeat
