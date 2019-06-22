@@ -21,4 +21,4 @@ app.use(require('./routes'));//IMPORTANDO OS ARQUIVOS DE ROTAS
 
 
 
-server.listen(3000, () => console.log('Server rodando na porta 3000'));
+server.listen(3001, () => console.log('Server rodando na porta 3001'));

@@ -28,7 +28,7 @@ module.exports = {
                 quality: 70
             })
             .toFile(
-                path.resolve(req.file.destination, 'resized', `redimensionada ${imagem}`)
+                path.resolve(req.file.destination, 'resized', `${imagem}`)
             )
 
         fs.unlinkSync(req.file.path); // EXCLUINDO IMAGEM ORIGINAL
